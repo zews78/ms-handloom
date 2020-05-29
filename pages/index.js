@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>ms handloom</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to thapa<a href="https://nextjs.org">Next.js!</a>
+          Welcome <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className="description">
